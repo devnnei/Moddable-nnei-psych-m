@@ -2,6 +2,8 @@
 
 ## Is this different from the original Psych Engine :
 Yes (obviously) when trying to run the original Psych Source, i encountered many errors, this alternative is for the people who want to mod while still being able to compile it without running across errors.
+also added a few features such as credits at the start of a song, might add more (thx alicedotlua)
+
 
 Changed source/states/stages/Tank.hx
 
