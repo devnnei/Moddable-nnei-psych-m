@@ -38,7 +38,7 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			["nnei's modificatiton team"],
+			["nnei engine team"],
 			["nnei",				"nnei",				"Creator of the modification",								"https://github.com/devnnei",		"00ff0d"],
 			[""],
 			["Psych Engine Team"],

@@ -1,4 +1,4 @@
-![nneisPsychionalEngineLogo](docs/img/mainlogoforthegh.png)
+![nneisPsychionalEngineLogo](docs/img/current_logo.png)
 
 ## Is this different from the original Psych Engine :
 Yes (obviously) when trying to run the original Psych Source, i encountered many errors, this alternative is for the people who want to mod while still being able to compile it without running across errors.
