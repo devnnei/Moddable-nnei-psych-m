@@ -4,11 +4,14 @@
 Yes (obviously) when trying to run the original Psych Source, i encountered many errors, this alternative is for the people who want to mod while still being able to compile it without running across errors.
 
 Changed source/states/stages/Tank.hx
+
 Changed source/backend/ui/PsychUIRadioGroup.hx
+
 Changed source/flxanimate/PsychFlxAnimate.hx
+
 Changed source/states/stages/objects/SpraycanAtlasSprite.hx
 
-When compiled, there will be no weeks so that you won't have to delete the weeks manually c:
+When compiled, there will be no weeks, so that you won't have to delete the weeks manually c:
 
 Changes for the engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
